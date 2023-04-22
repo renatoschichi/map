@@ -4,8 +4,8 @@ O projeto Map tem como objetivo de mostrar um mapa que é alimentado por uma api
 
 Tecnologias Utilizadas:
 
-ReactJS
-Google Maps API
+ReactJS,
+Google Maps API e 
 TypeScript
 
 Funcionalidades:
