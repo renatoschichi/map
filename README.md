@@ -15,7 +15,8 @@ Traçar rotas entre dois pontos no mapa utilizando a API do Google Maps.
 Como executar o projeto:
 
 Clone o repositório em sua máquina
-Rode o comando yarn para instalar a node_modules
-Adicione a chave da API do Google Maps
-Em seguida rode o comando yarn start para executar o projeto
-Acesse o projeto em seu navegador em localhost:3000
+
+- Rode o comando yarn para instalar a node_modules <br>
+- Adicione a chave da API do Google Maps <br>
+- Em seguida rode o comando yarn start para executar o projeto <br>
+- Acesse o projeto em seu navegador em localhost:3000 <br>
